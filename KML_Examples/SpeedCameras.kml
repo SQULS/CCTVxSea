@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fixed Camera Locations</name>
+    <description>Speed Camera locations</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>DRS Camera Locations</name>
+      <Placemark>
+        <name>A352 East Stoke</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.683008, -2.177793<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.683008, -2.177793</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.177793,50.683008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B3068 Blandford Road,Upton</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.733592, -2.024131<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.733592, -2.024131</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.024131,50.733592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B3072 Station Road, West Moors</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.828630, -1.889752<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.828630, -1.889752</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.889752,50.82863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B3073 Hurn Road, Christchurch</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.753956, -1.800242<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.753956, -1.800242</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.800242,50.753956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B3081 Ringwood Road,Verwood</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.879888, -1.869657<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.879888, -1.869657</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.869657,50.879888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B3081 Station Road,Verwood</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.882770, -1.888642<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.882770, -1.888642</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.888642,50.88277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C2 Horton Road, Ashley Heath (nr St Ives Park)</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.840805, -1.826891<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.840805, -1.826891</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.826891,50.840805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C2 Horton Road, Three Legged Cross, Wimborne (near to Holt Road)</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.851344, -1.890523<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.851344, -1.890523</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.890523,50.851344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A347 New Road, Ensbury, Bmth tws Northbourne</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.771157, -1.886807<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.771157, -1.886807</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.886807,50.771157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C2 Ringwood Road, Three Legged Cross, Wimborne (E of Verwood Rd)</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.849229, -1.882263<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.849229, -1.882263</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.882263,50.849229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A35 Christchurch Road, Bmth (Annerly-Hamilton) </name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.722871, -1.854080<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.722871, -1.854080</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.85408,50.722871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C5 Wareham Road, Beacon Hill, Corfe Mullen</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.760086, -2.027666<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.760086, -2.027666</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.027666,50.760086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C5 Wareham Road, Corfe Mullen, Wimborne (nr South Road)</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.773173, -2.016886<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.773173, -2.016886</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.016886,50.773173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C301 Kinson Road, Kinson, Bmth twd West Howe</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.761970, -1.901861<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.761970, -1.901861</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.901861,50.76197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C50 Wimborne Road East,Ferndown</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.806366, -1.910168<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.806366, -1.910168</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.910168,50.806366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C308 Columbia Road, Bournemouth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.752235, -1.900277<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.752235, -1.900277</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.900277,50.752235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ChristchurchRoad,West Parley j/w New Road</name>
+        <description><![CDATA[Council: Dorset<br>Type: Red Light<br>Location: 50.781516, -1.882165<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.781516, -1.882165</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.882165,50.781516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C309 Iford Lane, Southbourne, Bournemouth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.734953, -1.798575<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.734953, -1.798575</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.798575,50.734953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D41319 Golf Links Road, Ferndown</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.802691, -1.882628<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.802691, -1.882628</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.882628,50.802691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C309 Wentworth Avenue, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.725104, -1.823010<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.725104, -1.823010</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.82301,50.725104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castle Lane East j/w Chaseside, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.744801, -1.820874<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.744801, -1.820874</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.820874,50.744801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castle Lane East j/w Deansleigh Rd, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.745316, -1.821725<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.745316, -1.821725</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.821725,50.745316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castle Lane East, Bmth twd Iford</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.742292, -1.814094<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.742292, -1.814094</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.814094,50.742292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holdenhurst Avenue, Bournemouth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.740147, -1.815418<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.740147, -1.815418</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.815418,50.740147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A338 Wessex Way, Bournemouth nr Queens Park</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.742089, -1.837321<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.742089, -1.837321</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.837321,50.742089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A338 Wessex Way, Bournemouth nr Queens Park</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.742271, -1.837598<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.742271, -1.837598</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.837598,50.742271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A338 Wessex Way, Bournemouth nr Richmond Park</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.731453, -1.856086<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.731453, -1.856086</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.856086,50.731453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A338 Wessex Way, Bournemouth nr Richmond Park Road</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.735449, -1.845779<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.735449, -1.845779</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.845779,50.735449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A338 Wessex Way, Dean Park, Bournemouth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.723953, -1.872279<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.723953, -1.872279</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.872279,50.723953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A338 Wessex Way, nr Westbourne, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.723192, -1.898261<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.723192, -1.898261</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.898261,50.723192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A341 Magna Road, Bearwood, Bmth twd Merley</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.769524, -1.922177<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.769524, -1.922177</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.922177,50.769524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Rd j/w Kings Rd,Dorchester (Greys Bridge)</name>
+        <description><![CDATA[Council: Dorset<br>Type: Red Light<br>Location: 50.716303, -2.426182<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.716303, -2.426182</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.426182,50.716303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Road j/w Christchurch Road, West Parley, Ferndown</name>
+        <description><![CDATA[Council: Dorset<br>Type: Red Light<br>Location: 50.781182, -1.881880<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.781182, -1.881880</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.88188,50.781182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Road j/w Christchurch Road, West Parley, Ferndown</name>
+        <description><![CDATA[Council: Dorset<br>Type: Red Light<br>Location: 50.781760, -1.881541<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.781760, -1.881541</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.881541,50.78176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandford Road,Holton Heath j/w Organford Rd</name>
+        <description><![CDATA[Council: Dorset<br>Type: Red Light<br>Location: 50.719364, -2.085247<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.719364, -2.085247</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.085247,50.719364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charminster Rd,Bmth,j/w Richmond Park Rd</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.737188, -1.864397<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.737188, -1.864397</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.864397,50.737188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandford Road,Holton Heath j/w StationRoad</name>
+        <description><![CDATA[Council: Dorset<br>Type: Red Light<br>Location: 50.719851, -2.084352<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.719851, -2.084352</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.084352,50.719851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Overcliff Drive, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.719601, -1.854530<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.719601, -1.854530</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.85453,50.719601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A35 Chideock</name>
+        <description><![CDATA[Council: Highways<br>Type: Speed<br>Location: 50.731617, -2.811732<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Highways</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.731617, -2.811732</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.811732,50.731617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glenferness Avenue, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.735062, -1.892649<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.735062, -1.892649</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.892649,50.735062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A35 Chideock</name>
+        <description><![CDATA[Council: Highways<br>Type: Speed<br>Location: 50.732795, -2.823078<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Highways</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.732795, -2.823078</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.823078,50.732795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leybourne Avenue, Bournemouth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.760569, -1.888139<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.760569, -1.888139</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.888139,50.760569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A35 Castle Hill,Parkstone,Poole</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.725374, -1.946175<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.725374, -1.946175</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.946175,50.725374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poole Lane, Kinson, Bmth twd West Howe</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.763374, -1.910594<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.763374, -1.910594</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.910594,50.763374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adastral Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.741241, -1.967971<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.741241, -1.967971</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.967971,50.741241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queens Park Avenue, Bournemouth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.742491, -1.848257<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.742491, -1.848257</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.848257,50.742491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adastral Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.747202, -1.963157<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.747202, -1.963157</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.963157,50.747202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queens Park Avenue</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.743480, -1.844746<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.743480, -1.844746</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.844746,50.74348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redhill Ave, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.754290, -1.881368<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.754290, -1.881368</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.881368,50.75429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Richmond Park Road j/w Bennett Rd, B'mth]]></name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.736688, -1.855060<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.736688, -1.855060</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.85506,50.736688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ringwood Road, West Howe, Bmth twd Bearcross</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.757470, -1.927635<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.757470, -1.927635</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.927635,50.75747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blandford Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.733589, -2.024131<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.733589, -2.024131</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.024131,50.733589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bournemouth Rd</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.724562, -1.935143<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.724562, -1.935143</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.935143,50.724562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunyeats Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.763518, -1.985997<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.763518, -1.985997</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.985997,50.763518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunyeats Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.763208, -1.988307<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.763208, -1.988307</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.988307,50.763208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slip Rd Wessex Way to Castle Lane</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.747611, -1.829054<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.747611, -1.829054</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.829054,50.747611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slip Road from Wessex Way to Castle Lane</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.748136, -1.827078<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.748136, -1.827078</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.827078,50.748136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fleets Lane</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.744570, -1.939977<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.744570, -1.939977</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.939977,50.74457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Talbot Ave, Bournemouth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.737499, -1.882803<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.737499, -1.882803</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.882803,50.737499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Herbert Avenue </name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.744570, -1.939977<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.744570, -1.939977</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.939977,50.74457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turbary Park Avenue, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.755596, -1.919308<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.755596, -1.919308</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.919308,50.755596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Herbert Avenue</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.741193, -1.933899<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.741193, -1.933899</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.933899,50.741193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WellingtonRoad,Bmth-j/w Beechey Rd</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.730018, -1.867507<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.730018, -1.867507</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.867507,50.730018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holes Bay Rd,Poole j/w Sterte Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Red Light<br>Location: 50.720344, -1.984360<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.720344, -1.984360</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.98436,50.720344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WellingtonRoad,Bmth-j/w Beechey Rd</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.730407, -1.868207<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.730407, -1.868207</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.868207,50.730407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wessex Way, Dean Park, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.723865, -1.884043<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.723865, -1.884043</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.884043,50.723865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Way Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.751479, -1.864352<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.751479, -1.864352</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.864352,50.751479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wimborne Road, Kinson, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.768362, -1.898378<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.768362, -1.898378</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.898378,50.768362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wimborne Road,Bmth(Cemetery Junction)</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Red Light<br>Location: 50.731744, -1.874312<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.731744, -1.874312</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.874312,50.731744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Penn Hill Avenue,Poole j/w St. Osmunds Rd</name>
+        <description><![CDATA[Council: Poole<br>Type: Red Light<br>Location: 50.722210, -1.937734<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.722210, -1.937734</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.937734,50.72221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ringwood Road, Alderney</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.747829, -1.940528<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.747829, -1.940528</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.940528,50.747829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waterloo Road,Poole j/w Cabot Lane</name>
+        <description><![CDATA[Council: Poole<br>Type: Red Light<br>Location: 50.743992, -1.985651<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.743992, -1.985651</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.985651,50.743992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waterloo Road,Poole j/w Hatchpond Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Red Light<br>Location: 50.744599, -1.984998<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.744599, -1.984998</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.984998,50.744599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A337 LymingtonRd,Highcliffe</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.740219, -1.708019<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.740219, -1.708019</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.708019,50.740219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wimborne Rd Poole j/w Vicarage Rd </name>
+        <description><![CDATA[Council: Poole<br>Type: Red Light<br>Location: 50.732542, -1.977947<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.732542, -1.977947</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.977947,50.732542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A348 Ringwood Road, Ferndown</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.794542, -1.900171<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.794542, -1.900171</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.900171,50.794542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wimborne Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Speed<br>Location: 50.731573, -1.977285<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.731573, -1.977285</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.977285,50.731573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A35 Barrack Road,Christchurch</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.740689, -1.794296<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.740689, -1.794296</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.794296,50.740689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A350 Charlton Marshall</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.833497, -2.138696<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.833497, -2.138696</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.138696,50.833497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wimborne Road,Poole j/w Dorchester Rd (Oakdale School)</name>
+        <description><![CDATA[Council: Poole<br>Type: Red Light<br>Location: 50.733114, -1.977997<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.733114, -1.977997</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.977997,50.733114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A350 Spetisbury</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.819400, -2.123169<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.819400, -2.123169</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.123169,50.8194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holes Bay Rd,Poole j/w Sterte Road</name>
+        <description><![CDATA[Council: Poole<br>Type: Red Light<br>Location: 50.720938, -1.984728<br>Icon: traffic]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Poole</value>
+          </Data>
+          <Data name="Type">
+            <value>Red Light</value>
+          </Data>
+          <Data name="Location">
+            <value>50.720938, -1.984728</value>
+          </Data>
+          <Data name="Icon">
+            <value>traffic</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.984728,50.720938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A351 Sandford Rd,Sandford</name>
+        <description><![CDATA[Council: Dorset<br>Type: Speed<br>Location: 50.707250, -2.099446<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Dorset</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.707250, -2.099446</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.099446,50.70725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A347 Wimborne Road, Bmth</name>
+        <description><![CDATA[Council: Bournemouth<br>Type: Speed<br>Location: 50.729139, -1.875060<br>Icon: camera]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Council">
+            <value>Bournemouth</value>
+          </Data>
+          <Data name="Type">
+            <value>Speed</value>
+          </Data>
+          <Data name="Location">
+            <value>50.729139, -1.875060</value>
+          </Data>
+          <Data name="Icon">
+            <value>camera</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.87506,50.729139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
